@@ -1,0 +1,21 @@
+# Environments
+env/
+venv/
+.env
+
+# Python internals
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data and large files
+data/cleaned_well_data.csv
+*.las
+
+# OS files
+.DS_Store
+Thumbs.db
