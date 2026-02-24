@@ -23,7 +23,6 @@ data/FORCE_2020_RAW/
 *.pkl
 *.joblib
 *.h5
-data/
 mlflow.db
 mlflow_store/
 mlruns/
