@@ -1,0 +1,34 @@
+# Environments
+env/
+venv/
+.env
+
+# Python internals
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data and large files
+data/cleaned_master_data.csv
+data/*.csv
+data/master_training_data.csv
+data/final_well_predictions.csv
+data/*.las
+data/FORCE_2020_RAW/
+*.las
+*.pkl
+*.joblib
+*.h5
+data/
+mlflow.db
+mlflow_store/
+mlruns/
+.gradio/
+
+# OS files
+.DS_Store
+Thumbs.db
