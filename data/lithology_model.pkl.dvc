@@ -1,0 +1,5 @@
+outs:
+- md5: 124f8c70084682ecc7459e395544cc9e
+  size: 189278969
+  hash: md5
+  path: lithology_model.pkl
