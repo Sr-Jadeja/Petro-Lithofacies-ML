@@ -1,0 +1,23 @@
+# Environments
+env/
+venv/
+.env
+
+# Python internals
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and large files
+data/*.csv
+data/*.las
+data/FORCE_2020_RAW/
+*.las
+*.pkl
+*.joblib
+mlruns/
+.gradio/
+
+# OS files
+.DS_Store
+Thumbs.db
