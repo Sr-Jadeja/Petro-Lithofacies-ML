@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# MLflow / logs (if used)
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
